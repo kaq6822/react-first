@@ -1,5 +1,6 @@
 import React from "react";
 
+// test?
 class Square extends React.Component {
     render() {
         return (
